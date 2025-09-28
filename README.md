@@ -23,3 +23,5 @@ This project analyzes COVID-19 research metadata and provides insights via visua
 
 4. Run Streamlit app
    streamlit run app.py
+
+Note - The metadata.csv file was too big to commit to the main branch without cost. The JSON file serves as a placeholder. 
